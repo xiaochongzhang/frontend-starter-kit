@@ -1,4 +1,25 @@
 html {
 	font-family: "PingFangSC-Light",Arial,sans-serif;
 	color: #444;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 20px 30px;
+}
+
+
+li > img {
+    display: block;
+    margin-bottom: 8px;
 }
