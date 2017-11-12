@@ -2,3 +2,19 @@ html {
 	font-family: "PingFangSC-Light",Arial,sans-serif;
 	color: #444;
 }
+h1, ul{
+	text-align: center;
+}
+ul{
+	padding: 0;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 20px;
+}
+li > img{
+	display: block;
+	margin-bottom: 10px;
+}
