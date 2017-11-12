@@ -1,4 +1,19 @@
 html {
 	font-family: "PingFangSC-Light",Arial,sans-serif;
 	color: #444;
+	text-align: center;
+}
+
+ul {
+	padding: 0;
+}
+
+ul > li {
+	display: inline-block;
+	list-style: none;
+	margin: 40px;
+}
+
+.icon-title {
+	display: block;
 }
