@@ -2,3 +2,24 @@ html {
 	font-family: "PingFangSC-Light",Arial,sans-serif;
 	color: #444;
 }
+
+h1 {
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+	margin-top: 50px;
+}
+
+ul li {
+	display: inline-block;
+}
+
+ul li span {
+	display:block;
+	text-align: center;
+	width: 200px;
+}
+
