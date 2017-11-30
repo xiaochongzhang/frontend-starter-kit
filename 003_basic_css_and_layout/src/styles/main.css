@@ -8,15 +8,17 @@ h1 {
 }
 
 ul {
-	display: table;
-	margin: auto;
-	text-align: center;
-	padding: 0;
+	float: right;
+    position: relative;
+    left: -50%;
 }
 
 li {
-	display: table-cell;
+	position: relative;
+  	left: 50%;
 	list-style-type: none;
+	text-align: center;
+	display: inline-block;
 }
 
 img {
