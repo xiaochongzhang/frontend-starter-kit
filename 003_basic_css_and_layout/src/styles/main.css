@@ -2,3 +2,20 @@ html {
 	font-family: "PingFangSC-Light",Arial,sans-serif;
 	color: #444;
 }
+
+.center {
+	text-align: center;
+}
+
+ul.connect-icons {
+	list-style-type: none;
+}
+
+.connect-icons li {
+	display: inline-block;
+}
+
+.connect-icons li img {
+	display: block;
+    margin: 30px 30px 10px;
+}
