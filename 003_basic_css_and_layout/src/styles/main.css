@@ -2,3 +2,52 @@ html {
 	font-family: "PingFangSC-Light",Arial,sans-serif;
 	color: #444;
 }
+
+/*h1 {
+	text-align: center;
+} 
+
+ul {
+	position: absolute;
+	left: 34%;
+}
+
+li {
+   list-style: none;
+   float: left;
+   width:200px;
+}
+
+li img {
+	display: block;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+li span {
+	margin: 33px;
+}
+
+*/
+
+/*method 1-- inline block*/
+/*h1 {
+	text-align: center;
+}
+
+ul {
+	 text-align: center;
+}
+
+li {
+	margin: 20px;
+	display: inline-block;
+}
+
+li img , li span {
+	display: block;
+	padding: 5px;
+}
+ */
+ 
+
